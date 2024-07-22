@@ -30,6 +30,7 @@ github_username:  leighrchristie
 remote_theme: samarsault/texture
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
