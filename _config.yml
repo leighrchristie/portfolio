@@ -27,7 +27,7 @@ url: "https://leighrchristie.github.io" # the base hostname & protocol for your 
 github_username:  leighrchristie
 
 # Build settings
-remote_theme: samarsault/texture
+theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
