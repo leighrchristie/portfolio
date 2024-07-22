@@ -28,7 +28,6 @@ github_username:  leighrchristie
 
 # Build settings
 remote_theme: samarsault/texture
-theme: texture
 plugins:
   - jekyll-feed
 
