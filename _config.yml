@@ -18,36 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Leigh Christie - Interaction Designer
+title: Leigh Christie - UX Designer
 email: leighrosechristie@hotmail.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio site for Leigh Christie - Interaction Designer
+  Designer and apprentice developer, focused on crafting seamless user experiences.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://leighrchristie.github.io/portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  leighrchristie
+paginate: 5
+show_excerpts: true
 
 # Build settings
-remote_theme: samarsault/texture
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
-show_excerpts: true
-
-texture:
-  title: Leigh Christie
-  tagline: Designer. Developer.
-  date_format: "%b %-d, %Y"
-  showNav: true
-  #navigation:
-    #- title: My Work
-      #url: "/my-work"
-    #- title: Resume
-      #url: "/resume"
-  style: black
-  social_links:
-    github:  leighrchristie
-    linkedIn: in/leigh-christie-19aa91104 # format: locale/username
 
 # Exclude from processing.
 # The following items will not be processed, by default.
