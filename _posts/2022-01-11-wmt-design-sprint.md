@@ -5,23 +5,17 @@ date:   2022-01-11
 category: design sprint
 categories: moj
 ---
-Hello, this is some information
 
-Jekyll requires blog post files to be named according to the following format:
+## Background on WMT
+The Workload Measurement Tool (WMT) was a third party supplied web based tool that was brought in house by the MoJ in 2022. In simple terms, the WMT measures work load and helps people to balance it.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The opportunity presented by the data available in WMT is greater than its current usage, with scope to improve further.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Myself and another Interaction Designer on the team decided to conduct a design sprint into the usage of WMT and how the data could be better used and presented, in a way that aligned with the users goals.
 
-Jekyll also offers powerful support for code snippets:
+... which is shown in the screenshot below:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![The San Juan Mountains are beautiful!](/assets/images/1b5cwsykpbrc1.jpeg "San Juan Mountains")
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
