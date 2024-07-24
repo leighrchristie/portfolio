@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Design sprint: Redesigning the Workload Measurement Tool"
-date:   2022-01-11
-category: design sprint
-categories: moj
+title:  "Search and filter functionality to allow users to efficiently find information"
+date:   2022-04-22
+categories: moj interventions
 ---
 
 ## Situation: Background on WMT
