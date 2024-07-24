@@ -6,7 +6,7 @@ category:
 categories: 
 ---
 
-## Situation: Background 
+## Situation:
 
 ### User needs
 ### Business needs
