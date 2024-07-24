@@ -6,10 +6,18 @@ category: design sprint
 categories: moj allocations
 ---
 
-## Situation: Background
-The team had to introduce pagination onto a screen because the page was becoming too big and impacting service stability.
+## Situation: Background on WMT
+The Workload Measurement Tool (WMT) was a third party supplied web based tool that was brought in house by the MoJ in 2022. In simple terms, the WMT measures work load and helps people to balance it.
 
-On paginated pages, this would affect users who will no longer be able to use their browser to search across the paginated pages. 
+The opportunity presented by the data available in WMT is greater than its current usage, with scope to improve further.
+
+Myself and another Interaction Designer on the team decided to conduct a design sprint into the usage of WMT and how the data could be better used and presented, in a way that aligned with the users goals.
+
+![A screenshot of the WMT national interface](/portfolio/assets/images/wmt-design-sprint/WMT.png "A screenshot of the WMT national interface, a table with rows for each region in England and Wales")
+*A screenshot of the WMT National interface, a table with rows for each region in England and Wales.*
+
+![A screenshot of the WMT caseload](/portfolio/assets/images/wmt-design-sprint/WMT_caseload.png "A screenshot of the WMT caseload interface, including statistics on caseload totals and a table breakdown")
+*A screenshot of the WMT caseload interface, including statistics on caseload totals and a table breakdown.*
 
 ### User needs
 To ensure we weren't reinventing the wheel, I looked back at previous research sessions where WMT had been discussed and noted down any important quotes and insights.
