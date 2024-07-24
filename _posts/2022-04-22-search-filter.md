@@ -5,64 +5,44 @@ date:   2022-04-22
 categories: moj interventions
 ---
 
-## Situation: Background
+## Background
 The team had to introduce pagination onto a screen because the page was becoming too big and impacting service stability.
 
 On paginated pages, this would affect users who will no longer be able to use their browser to search across the paginated pages. 
 
+A survey with users revealed that many used browser functionality Ctrl-F on the page to pinpoint an intervention or group of interventions. This would no longer work adequately when pagination was introduced.
+
 ### User needs
-To ensure we weren't reinventing the wheel, I looked back at previous research sessions where WMT had been discussed and noted down any important quotes and insights.
+The user need here was clear; 
 
-![Previous research into WMT](/portfolio/assets/images/wmt-design-sprint/WMT_research.png "A screenshot of the previous research done into WMT")
-*A screenshot of the previous research done into WMT.*
+> As a user I want to be able to quickly identify a case within a list so that I can complete my tasks associated with that case.
 
-In order to start working on potential designs, I decided we needed to analyse the existing research and assumptions to investigate where we had common threads of issues.
+## Exploring different design options
+I created five designs in Figma, ranging in complexity and confidence level, using established search patterns from within the HMPPS community and adapting them to suit our requirements.
 
-## Task: Creating assumptions to test with designs
-I gathered quotes from the research and began to affinity sort them into themes, making observations about these themes and turning those into assumptions about user behaviour and data quality.
+![Designs](/portfolio/assets/images/search-filter/three_designs.png "Three of the five designs I created to resolve the user need")
+*Three of the five designs I created to resolve the user need.*
 
-> "[I'm] used to working in three or four different screens. You know, flicking between different screens to look it up. We have a measurement tool look up on an allocation spreadsheet." - Participant
+I wanted to get feedback from the whole user experience side of the team so invited interaction design, content design, user research and service design team members to critique the design. I created a rough agenda for the 45 minute slot; it was not much time to get through a lot of information, but I stuck to time and planned the session well ahead of time, so it ran smoothly and finished on time.
 
-I came up with 6 themes with associated assumptions we could test.
+> "In a recent crit, she produced a very structured meeting format, ran the session tightly and accumulated useful feedback as a result." - feedback from a Content Designer
 
-![Assumptions](/portfolio/assets/images/wmt-design-sprint/WMT_assumptions1.png "Three of the six themes; users are flicking between screens, confusion with the capacity % and that there is more to capacity than just the number")
-*Three of the six themes; users are flicking between screens, confusion with the capacity % and that there is more to capacity than just the number.*
+## Testing the feasibility of the design
+Once we'd decided on the best design, I ran the developers through the design to judge the technical feasibility of it. Unfortunately, the data that we required was being pulled from various locations, meaning that although we’d chosen the most simple interaction, the technical feasibility of this was not simple and wouldn’t satisfy the user need of being able to search the whole list.
 
-![Assumptions](/portfolio/assets/images/wmt-design-sprint/WMT_assumptions2.png "The last three of the six themes; users don't trust the data, users are misusing aspects of the system and that users can access more of the tool than necessary")
-*The last three of the six themes; users don't trust the data, users are misusing aspects of the system and that users can access more of the tool than necessary.*
+![Initial search function design](/portfolio/assets/images/search-filter/initial_design.png "Initital search function design")
+*Initial search function design before reviewing with the team.*
 
-Using the research, analysis and assumptions I had created, I determined 9 - 10 distinct user journeys that were being done in WMT. I could see three key products that WMT could be broken down into;
-- Caseload
-- Workload Management
-- Reporting
+Based on the developers feedback, I made some changes to the design which narrowed down where in the data the user was searching, while still maintaining the simplicity of the design.
 
-![Product map breakdown](/portfolio/assets/images/wmt-design-sprint/product_map.png "Ten distinct products that could be grouped into three different services; Caseloads, Workload Management and Reporting")
-*Ten distinct products that could be grouped into three different services; Caseloads, Workload Management and Reporting.*
+![Revised search function design](/portfolio/assets/images/search-filter/final_design.png "Revised search function design")
+*Resvised search function design for testing.*
 
-## Action: Proof of concept designs
-The next step of the design sprint was to pick an area to create a proof of concept. I chose to select the ‘view my team’ user journey, as this was key data that the tool was being used for, in order to support senior probation practitioners manage their team’s workload.
-
-I extrapolated the data required for this journey (that already existed in WMT) and from analysis of the research, included some areas that might be beneficial new features.  Removing the data into it’s high level purpose, rather than looking at screens, helped me to remove the old product and focus on new ideas.
-
-![WMT data points](/portfolio/assets/images/wmt-design-sprint/WMT_data_points.png "Sticky notes denoting data points to be included in the design")
-*Sticky notes denoting data points to be included in the design.*
-
-Using Miro, I took those high level data points and began to arrange them on a prototyped GOV.UK screen. Initially, I had gone straight into Figma to begin to create a prototype, but found that without a basic concept of what I wanted, I found it hard to choose appropriate components and visualise how I wanted the information architecture to be.
-
-![View my team design in Miro](/portfolio/assets/images/wmt-design-sprint/miro_design.png "Miro sticky notes on a GOV.UK background to roughly layout the screens")
-*Miro sticky notes on a GOV.UK background to roughly layout the screens.*
-
-By taking a step back, I was actually able to save myself time by not diving in with too much complexity. From this design, I could then create a more realistic version in Figma.
-
-![View my team design in Figma](/portfolio/assets/images/wmt-design-sprint/view_my_team.png "A more high fidelity design showing the proof of concept designs")
-*A more high fidelity design showing the proof of concept designs.*
+I then created a full journey prototype in Figma for this new design which would test how users interact with a search in user research.
 
 ## Results
-When I showed my design for the new ‘view my team’ screen, the team were very excited about it!
+We tested the prototyped journey with five participants, four of which were able to complete the task of finding a probation practitioner’s cases with no prompts. 
 
-This initial first page only uses data currently available within WMT, but presents key information back in an easily digestible format. Users should be able to find a lot of their key team level information on this page with the option to drill down further only one click away in.
+Users were generally excited when first seeing the search box, as it was a desired feature of the product.
 
-> "This is great! We could build this now, let’s do it!" - Technical architect
-
-### Future considerations
-As a proof of concept of what WMT is capable of, I think we succeeded in making the case for rethinking how powerful it could be. Work to improve the data in WMT was put onto the team’s roadmap.
+The crit provided the team with clear design direction and confidence for a feature that was tested with users. The feedback from the user testing excellent and didn’t result in any changes to the design. It was decided that it should be implemented and monitored with users, perhaps released to only a few before a national roll-out.

@@ -6,7 +6,7 @@ category: design sprint
 categories: moj allocations
 ---
 
-## Situation: Background on WMT
+## Background on WMT
 The Workload Measurement Tool (WMT) was a third party supplied web based tool that was brought in house by the MoJ in 2022. In simple terms, the WMT measures work load and helps people to balance it.
 
 The opportunity presented by the data available in WMT is greater than its current usage, with scope to improve further.
@@ -27,7 +27,7 @@ To ensure we weren't reinventing the wheel, I looked back at previous research s
 
 In order to start working on potential designs, I decided we needed to analyse the existing research and assumptions to investigate where we had common threads of issues.
 
-## Task: Creating assumptions to test with designs
+## Creating assumptions to test with designs
 I gathered quotes from the research and began to affinity sort them into themes, making observations about these themes and turning those into assumptions about user behaviour and data quality.
 
 > "[I'm] used to working in three or four different screens. You know, flicking between different screens to look it up. We have a measurement tool look up on an allocation spreadsheet." - Participant
@@ -48,7 +48,7 @@ Using the research, analysis and assumptions I had created, I determined 9 - 10 
 ![Product map breakdown](/portfolio/assets/images/wmt-design-sprint/product_map.png "Ten distinct products that could be grouped into three different services; Caseloads, Workload Management and Reporting")
 *Ten distinct products that could be grouped into three different services; Caseloads, Workload Management and Reporting.*
 
-## Action: Proof of concept designs
+## Proof of concept designs
 The next step of the design sprint was to pick an area to create a proof of concept. I chose to select the ‘view my team’ user journey, as this was key data that the tool was being used for, in order to support senior probation practitioners manage their team’s workload.
 
 I extrapolated the data required for this journey (that already existed in WMT) and from analysis of the research, included some areas that might be beneficial new features.  Removing the data into it’s high level purpose, rather than looking at screens, helped me to remove the old product and focus on new ideas.
