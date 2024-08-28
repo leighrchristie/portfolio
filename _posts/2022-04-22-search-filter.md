@@ -2,7 +2,7 @@
 layout: post
 title:  "Search and filter functionality to allow users to efficiently find information"
 date:   2022-04-22
-categories: moj interventions
+categories: moj interventions web
 ---
 
 ## Background

@@ -3,7 +3,7 @@ layout: post
 title:  "Design sprint: Redesigning the Workload Measurement Tool"
 date:   2022-07-11
 category: design sprint
-categories: moj allocations
+categories: moj allocations web
 ---
 
 ## Background on WMT
