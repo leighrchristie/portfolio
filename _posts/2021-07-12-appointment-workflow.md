@@ -2,7 +2,7 @@
 layout: post
 title:  "Appointment management workflow"
 date:   2021-07-12
-tags: [case management, moj, web, working within constraints]
+tags: [moj, working within constraints]
 ---
 
 ## Background

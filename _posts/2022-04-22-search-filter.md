@@ -2,7 +2,7 @@
 layout: post
 title:  "Search and filter functionality to allow users to efficiently find information"
 date:   2022-04-22
-tags: [moj, interventions, web, agile working, designing interfaces]
+tags: [moj, agile working, designing interfaces]
 ---
 
 ## Background

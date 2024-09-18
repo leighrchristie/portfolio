@@ -2,7 +2,7 @@
 layout: post
 title:  "Improving the secondary navigation for users"
 date:   2023-04-20
-tags: [website builder, moj, web, mobile, designing interfaces, designing for digital]
+tags: [moj, mobile, designing interfaces, designing for digital]
 ---
 
 ## Background
