@@ -21,13 +21,13 @@ Our role as part of this campaign was to create a new HMPPS jobs website that fi
 
 This topic had been looked at previously a number of times, so there was a wealth of previous research to look at.
 
-![Previous research](/portfolio/assets/images/hmpps-jobs/previous_research.png "An image of two previous sources of research findings from 2017 and 2018")
+![Previous research](/assets/images/hmpps-jobs/previous_research.png "An image of two previous sources of research findings from 2017 and 2018")
 *An image of two previous sources of research findings from 2017 and 2018.*
 
 ### User needs
 There were many user needs identified as part of the various discovery projects into this area, which we consolidated into 10 epics;
 
-![Ten user research epics](/portfolio/assets/images/hmpps-jobs/ur_epics.png "The ten themes of user needs we identified")
+![Ten user research epics](/assets/images/hmpps-jobs/ur_epics.png "The ten themes of user needs we identified")
 *The ten themes of user needs we identified.*
 
 Originally, the jobs listing pattern was attempting to address the user needs within 'Current vacancies', 'Immediate next steps' and 'Can I apply?'
@@ -36,33 +36,33 @@ Originally, the jobs listing pattern was attempting to address the user needs wi
 
 This version was created using the research we had accumulated through the various research decks. It was put together using the existing blocks available on the Hale theme in WordPress to test whether it was possible to meet user needs using the features already available.
 
-![Version one collapsed](/portfolio/assets/images/hmpps-jobs/version1.png "Jobs listing using the columns and card blocks in WordPress")
+![Version one collapsed](/assets/images/hmpps-jobs/version1.png "Jobs listing using the columns and card blocks in WordPress")
 *Jobs listing using the columns and card blocks in WordPress.*
 
 
-![Version one expanded](/portfolio/assets/images/hmpps-jobs/version1_expanded.png "When the link of the card was clicked, it would open more information about the role")
+![Version one expanded](/assets/images/hmpps-jobs/version1_expanded.png "When the link of the card was clicked, it would open more information about the role")
 *When the link of the card was clicked, it would open more information about the role.*
 
 ### Findings
 Initially we were trying to solve the user needs around the epic 'Immediate next steps' with these screens, but realised that this information would be duplicated on our site as well as the site that applicants use to apply for the role. The jobs pattern needed to be the minimum amount of information that the user would need to judge whether they were interested in finding out more about the role, so it was deemed as not necessary while the applicant journey uses two sites. These user needs can be met elsewhere on the site within the specific role pages.
 
-![Immediate next steps needs](/portfolio/assets/images/hmpps-jobs/version1_nextsteps.png "Immediate next steps needs")
+![Immediate next steps needs](/assets/images/hmpps-jobs/version1_nextsteps.png "Immediate next steps needs")
 *Immediate next steps needs, met elsewhere in the user journey.*
 
 ## Design: version two
 These versions took inspiration from existing GOV.UK patterns on job listings as well as other leading job sites, such as LinkedIn, Google, Indeed and others.
 
-![Desk research](/portfolio/assets/images/hmpps-jobs/version2_examples.png "Desk research")
+![Desk research](/assets/images/hmpps-jobs/version2_examples.png "Desk research")
 *Different versions inspired by desk research.*
 
 We ran a design critique on this design (as well as some other options) and came away with decisions that would create the MVP design. I kept a design history of the recorded changes I needed to make for the third version.
 
-![Design crit](/portfolio/assets/images/hmpps-jobs/version2_crit.png "Design crit")
+![Design crit](/assets/images/hmpps-jobs/version2_crit.png "Design crit")
 *Design crit findings with the team.*
 
 The chosen version included a link to the application site for the role, key information about the role including salary, contract type and location as well as filters and keyword searches to help the user identify the specific roles they were interested in applying for.
 
-![Version two](/portfolio/assets/images/hmpps-jobs/version2.png "Version two")
+![Version two](/assets/images/hmpps-jobs/version2.png "Version two")
 *Version two*
 
 ### Findings
@@ -76,10 +76,10 @@ The chosen version included a link to the application site for the role, key inf
 
 This version implemented the identified changes in Figma and built out a full user journey for testing. This journey included a content for when a user searches for a job but there are no matches.
 
-![Version three](/portfolio/assets/images/hmpps-jobs/version3.png "Version three")
+![Version three](/assets/images/hmpps-jobs/version3.png "Version three")
 *Version three, with filters for role, region and salary*
 
-![Version three](/portfolio/assets/images/hmpps-jobs/version3_noresults.png "Version three, no results")
+![Version three](/assets/images/hmpps-jobs/version3_noresults.png "Version three, no results")
 *Content for when there are no matching roles after searching for jobs*
 
 These designs were tested in a round of research using participants that had used the previous site to apply for a role at HMPPS.
@@ -102,7 +102,7 @@ Functionality to note;
 - The search term will persist in the search box after the ‘update results’ button has been pressed
 - Additional filters can be added along with the search term and apply to the search (e.g. “youth” + minimum salary £30,000)
 
-![Version four](/portfolio/assets/images/hmpps-jobs/version4.png "Version four")
+![Version four](/assets/images/hmpps-jobs/version4.png "Version four")
 *Version four*
 
 ## Results
