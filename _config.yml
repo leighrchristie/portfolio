@@ -23,7 +23,7 @@ email: leighrosechristie@hotmail.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Designer and apprentice developer, focused on crafting seamless user experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://leighrchristie.github.io/portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leighrchristie.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: assets/favicon.png
 
 # BLOG CONFIGURATION
