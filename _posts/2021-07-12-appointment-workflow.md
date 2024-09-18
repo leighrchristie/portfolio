@@ -26,7 +26,7 @@ A quick win in this area was to restructure the process of recording an absence,
 
 In the existing system, a long drop down list of 20 different options are presented to the user, with various branching logic outcomes attached. To begin, I analysed the list and categorised them into the appropriate process path.
 
-![Logic map](/portfolio/assets/images/appointment-workflow/logic_map.png "The available options categorised into logical branching logic")
+![Logic map](/assets/images/appointment-workflow/logic_map.png "The available options categorised into logical branching logic")
 *The available options categorised into logical branching logic.*
 
 ## Testing the feasibility of the design
