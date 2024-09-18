@@ -2,6 +2,7 @@
 layout: post
 title:  "Job listing pattern for HMPPS"
 date:   2023-09-27
+img: assets/images/hmpps-jobs/feature.png
 category: website builder
 categories: moj web mobile
 ---

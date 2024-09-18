@@ -2,6 +2,7 @@
 layout: post
 title:  "Appointment management workflow"
 date:   2021-07-12
+img: assets/images/appointment-workflow/feature.png
 category: case management
 categories: moj web
 ---
