@@ -24,12 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Designer and apprentice developer, focused on crafting seamless user experiences.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://leighrchristie.github.io/portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  leighrchristie
-paginate: 5
-show_excerpts: true
+favicon: assets/favicon.png
+
+# BLOG CONFIGURATION
+header_text: Hi! I’m Leigh – I’m a User-Centred Designer currently working with Government Digital Service.
+post_navigation: true
+paginate: 10
+paginate_path: "blog/page:num"
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 
 # Build settings
-remote_theme: fongandrew/hydeout
+remote_theme: sylhare/Type-on-Strap
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
