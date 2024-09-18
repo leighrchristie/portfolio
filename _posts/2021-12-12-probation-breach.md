@@ -23,7 +23,7 @@ Once we had devised this hypothesis, I began to look at examples from both acros
 
 The team shared examples from bus applications, hotel booking sites to the GOV.UK passport application process.
 
-![Example gathering](/assets/images/probation-breach/ideas.png "Some of the examples we could draw inspiration from")
+![Example gathering](/portfolio/assets/images/probation-breach/ideas.png "Some of the examples we could draw inspiration from")
 *Some of the examples we could draw inspiration from.*
 
 To ensure we designed as a team in a consistent and accessible way, I worked with our UX team in Miro, instead of designing in code, which takes longer.
@@ -34,7 +34,7 @@ We did another round of independent time-boxed sketches in Miro, using our votin
 
 I used components from my previous designs and from other members of the team’s designs. I focussed clearly on the user needs for an ‘overview’ of the stage of a breach, ensuring each of those needs were met, with particular attention on ensuring the practitioner knew what the next step of the journey was, in the call to action box.
 
-![Second iteration](/assets/images/probation-breach/second_iteration.png "My second design, using components from other's designs")
+![Second iteration](/portfolio/assets/images/probation-breach/second_iteration.png "My second design, using components from other's designs")
 *My second design, using components from other's designs.*
 
 After this round, it was much more apparent we’d reached a design consensus as there were many similar themes in the team's individual designs.
@@ -45,7 +45,7 @@ Our user researcher conducted several usability tests over the course of three d
 ## Results
 Users commented that the new workflow would enable them to work more efficiently when beginning the breach process; rather than clicking on multiple screens and compiling information themselves, there was a dedicated screen which did this for them. It would make creating the breach pack for court much more simple.
 
-![Coded design tested with users](/assets/images/probation-breach/coded_version.png "Coded design that was tested with users")
+![Coded design tested with users](/portfolio/assets/images/probation-breach/coded_version.png "Coded design that was tested with users")
 *Coded design that was tested with users.*
 
 > "I find it a lot easier to navigate than [existing system]. On that [the prototype] all the information is contained within one section, it’s all there"

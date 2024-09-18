@@ -32,7 +32,7 @@ I iterated through 3 versions of the design before we got to a place we felt wou
 ### Version one
 This version was the version that was tested as part of the research round, on the IMB site.
 
-![Version one](/assets/images/mega-navigation/version1.png "An image of two previous sources of research findings from 2017 and 2018")
+![Version one](/portfolio/assets/images/mega-navigation/version1.png "An image of two previous sources of research findings from 2017 and 2018")
 *An image of two previous sources of research findings from 2017 and 2018.*
 
 ### Findings
