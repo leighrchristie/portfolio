@@ -2,7 +2,7 @@
 layout: post
 title:  "Allocation evidencing: influencing the design direction"
 date:   2023-03-30
-tags: [moj, designing information, designing iteratively, communicating and influencing]
+tags: [moj, designing information, working strategically, communicating and influencing]
 ---
 
 ## Situation

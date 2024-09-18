@@ -2,7 +2,7 @@
 layout: post
 title:  "Dedicated space for breaching someone on probation"
 date:   2021-12-12
-tags: [moj, prototyping, design sprint, designing collaboratively]
+tags: [moj, prototyping, design sprint, designing collaboratively, designing information]
 ---
 
 ## Background
