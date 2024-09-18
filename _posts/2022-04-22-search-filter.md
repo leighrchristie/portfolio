@@ -20,7 +20,7 @@ The user need here was clear;
 ## Exploring different design options
 I created five designs in Figma, ranging in complexity and confidence level, using established search patterns from within the HMPPS community and adapting them to suit our requirements.
 
-![Designs](/assets/images/search-filter/three_designs.png "Three of the five designs I created to resolve the user need")
+![Designs](/portfolio/assets/images/search-filter/three_designs.png "Three of the five designs I created to resolve the user need")
 *Three of the five designs I created to resolve the user need.*
 
 I wanted to get feedback from the whole user experience side of the team so invited interaction design, content design, user research and service design team members to critique the design. I created a rough agenda for the 45 minute slot; it was not much time to get through a lot of information, but I stuck to time and planned the session well ahead of time, so it ran smoothly and finished on time.
@@ -30,12 +30,12 @@ I wanted to get feedback from the whole user experience side of the team so invi
 ## Testing the feasibility of the design
 Once we'd decided on the best design, I ran the developers through the design to judge the technical feasibility of it. Unfortunately, the data that we required was being pulled from various locations, meaning that although we’d chosen the most simple interaction, the technical feasibility of this was not simple and wouldn’t satisfy the user need of being able to search the whole list.
 
-![Initial search function design](/assets/images/search-filter/initial_design.png "Initital search function design")
+![Initial search function design](/portfolio/assets/images/search-filter/initial_design.png "Initital search function design")
 *Initial search function design before reviewing with the team.*
 
 Based on the developers feedback, I made some changes to the design which narrowed down where in the data the user was searching, while still maintaining the simplicity of the design.
 
-![Revised search function design](/assets/images/search-filter/final_design.png "Revised search function design")
+![Revised search function design](/portfolio/assets/images/search-filter/final_design.png "Revised search function design")
 *Resvised search function design for testing.*
 
 I then created a full journey prototype in Figma for this new design which would test how users interact with a search in user research.

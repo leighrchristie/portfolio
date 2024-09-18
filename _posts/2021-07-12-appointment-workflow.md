@@ -28,13 +28,13 @@ A quick win in this area was to restructure the process of recording an absence,
 
 In the existing system, a long drop down list of 20 different options are presented to the user, with various branching logic outcomes attached. To begin, I analysed the list and categorised them into the appropriate process path.
 
-![Logic map](/assets/images/appointment-workflow/logic_map.png "The available options categorised into logical branching logic")
+![Logic map](/portfolio/assets/images/appointment-workflow/logic_map.png "The available options categorised into logical branching logic")
 *The available options categorised into logical branching logic.*
 
 ## Testing the feasibility of the design
 I began by creating a few paper prototypes to work out the flow of the transaction, then once I was happy with it, I coded it into an electronic prototype to be tested by users.
 
-![Coded design](/assets/images/appointment-workflow/update_attendance.png "Conditionally revealing options based on user selections")
+![Coded design](/portfolio/assets/images/appointment-workflow/update_attendance.png "Conditionally revealing options based on user selections")
 *Conditionally revealing options based on user selections.*
 
 This design works more efficiently by guiding the user through the process of recording attendance. It prompts the user to answer two questions, displaying only the information that is relevant to the answer provided, rather than the drop down menu of 20+ options.
